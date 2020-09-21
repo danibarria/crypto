@@ -1,7 +1,7 @@
 # Crypto Saas (cryptosaas)
 
 You can view this project at https://danibarria.com.ar/crypto/#/
-Another wallet
+**This is only a landing page.**
 
 ## Install the dependencies
 ```bash
